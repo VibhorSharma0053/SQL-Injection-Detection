@@ -45,7 +45,9 @@ python sql_injection_detector.py
 - The tool will analyze the file and display results instantly.  
 
 ## 🖥️ Screenshot  
-![SQL Injection Detector GUI](screenshot.png) *(Add a real screenshot of your tool here)*  
+![SQL Injection Detector GUI](Output1.png)  
+![SQL Injection Detector GUI](Output2.png)  
+![SQL Injection Detector GUI](Output3.png)  
 
 ## 🏆 Output Format  
 The program displays results in the following format:  
@@ -62,11 +64,4 @@ The program displays results in the following format:
 2A: 5
 3A: /search.php?q=' OR 1=1 --
 4A: /login.php?user=admin' --
-```
-
-## 📜 License  
-This project is **open-source** and available under the **MIT License**.  
-
----
-
-Let me know if you'd like any modifications or if you want to add a **GitHub repository link**! 🚀
+``` 
